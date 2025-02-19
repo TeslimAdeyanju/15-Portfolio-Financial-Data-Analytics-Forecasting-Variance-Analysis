@@ -147,5 +147,11 @@ cython_debug/
 *.xls
 *.xlsm
 
+# Ignore log files
+*.log
+
+* ignore json files
+*.json
+
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python,time,series,machine
